@@ -7,6 +7,7 @@ A complete chess game with a full-featured chess engine, interactive drag-and-dr
 
 🌐 Live Demo
 
+https://incandescent-crisp-09265f.netlify.app/
 
 
 🎮 Features
@@ -45,18 +46,19 @@ A complete chess game with a full-featured chess engine, interactive drag-and-dr
    - **Promotion**: Choose piece when pawn reaches the end
 5. **Controls**: Use buttons to restart, undo, or flip board
 
+
 🛠️ Technologies Used
 
 - **HTML5** - Game structure and layout
 - **CSS3** - Responsive design, animations, theming
 - **JavaScript (ES6)** - Complete chess engine and game logic
- 📁 File Structure
 
+
+📁 File Structure
 
 📦 chess-game
 
 ├── 📄 index.html          # Main game interface
-
 
 
 🧠 Chess Engine Architecture
@@ -87,17 +89,20 @@ class ChessGame {
 | Checkmate | Game over - winner declared | "Checkmate! [Color] wins!" |
 | Stalemate | Game over - draw | "Stalemate! It's a draw!" |
 
-## 🔧 Installation
+
+🔧 Installation
 
  **No dependencies!** Pure HTML/CSS/JavaScript - just run and play.
 
-## 📝 Requirements
+
+📝 Requirements
 
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - JavaScript enabled
 - No internet connection required after loading
 
-## 🎯 Future Enhancements
+
+🎯 Future Enhancements
 
 - [ ] AI opponent with difficulty levels (Minimax algorithm)
 - [ ] Chess clock with time controls
@@ -106,7 +111,8 @@ class ChessGame {
 - [ ] Online multiplayer via WebSocket
 - [ ] Responsive design for mobile devices
 
-## 🤝 Contributing
+
+🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -122,11 +128,13 @@ Contributions are welcome! Here's how you can help:
 - **UI/UX**: Modify `style.css` and DOM manipulation in `script.js`
 - **Testing**: Use the console to debug move generation and game states
 
-## 📄 License
+
+📄 License
 
 This project is open source and available under the **MIT License**.
 
-## 🙏 Acknowledgments
+
+🙏 Acknowledgments
 
 - Chess piece design inspired by [Chess.com](https://www.chess.com)
 - Testing feedback from the open-source community
