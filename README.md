@@ -54,6 +54,7 @@ A complete chess game with a full-featured chess engine, interactive drag-and-dr
 
 
 📦 chess-game
+
 ├── 📄 index.html          # Main game interface
 
 
